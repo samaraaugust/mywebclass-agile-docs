@@ -16,4 +16,4 @@ Risks: Failure to identify all user needs and expectations, failure to incorpora
 
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1](https://github.com/samaraaugust/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiatives_2/Epics/Storys/story_2.md)
