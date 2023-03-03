@@ -18,3 +18,19 @@ Training: Providing training to team members on how to use Kanban boards effecti
 Feedback: Gathering feedback from team members about the effectiveness of the Kanban board can help identify any issues or areas for improvement. This can be done through regular retrospectives or informal feedback sessions.
 
 Overall, regular observation, reviews, and tracking of metrics can help ensure that Kanban boards are being used effectively. Providing training and gathering feedback can also help identify any issues or areas for improvement.
+
+Goals: 
+Improve Communication: Visual Management techniques help to make project information visible and transparent, enabling effective communication among team members, stakeholders, and customers.
+
+Increase Transparency: Visual Management provides a clear view of project progress, status, and obstacles, which makes it easier to identify problems, and facilitates early intervention.
+
+Enhance Collaboration: Visual Management tools and techniques promote collaboration among team members, which can improve the quality of the project deliverables, and help the team to work together more effectively.
+
+Scope: 
+The scope of Visual Management in Agile and Lean project management is to create a visual framework that enhances communication, transparency, collaboration, and efficiency, while promoting a culture of continuous improvement and accountability.
+
+Outcomes: A more organized way to manage workload amongst team memebers
+
+Deliverables: A system of how to organize work amongst team members.
+
+Milestones: Should be determined when team is developed.

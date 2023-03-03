@@ -7,7 +7,7 @@ us up for long-term success.
 ## Initiative(s)
 
 * [Choosing a platform to help managment workload, so a visual management system.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+* [Create a system to regularly test web applicatitions and its components.](initiatives/initiative_devops.md)
+
 ## Test plan
 How will this be tested?
