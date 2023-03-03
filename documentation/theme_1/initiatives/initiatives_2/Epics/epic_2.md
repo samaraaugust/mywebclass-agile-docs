@@ -1,7 +1,5 @@
 "User/Business Acceptance Testing"
 
-Description: [A brief description of the epic]
-
 Goals/Description: Ensure that the web application meets the needs and expectations of the users and is approved by business guidelines.
 
 User Stories: 
