@@ -2,8 +2,8 @@
 ## Description
 Agile and lean project management both use visual management techniques, such as Kanban boards, to provide a clear and transparent view of project progress. This initiative helps to keep everyone on the same page and focused on the project goals.
 ## Epics
-* [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
-* Epic 2
+* [Epic 1](https://github.com/samaraaugust/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiatives_1/Epics/epic_1.md)
+* [Epic 2](https://github.com/samaraaugust/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiatives_1/Epics/epic_2.md)
 ## Test plan
 Visual management techniques like Kanban boards are usually tested through observation and inspection. There are several ways to ensure that Kanban boards are being used effectively and efficiently:
 
