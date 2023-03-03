@@ -19,4 +19,4 @@ Business Value: Should be valued a lot because it ensures that the product is wo
 Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1](https://github.com/samaraaugust/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiatives_2/Epics/Storys/story_1.md)
