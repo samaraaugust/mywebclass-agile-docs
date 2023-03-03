@@ -22,4 +22,4 @@ Business Value: Important, only because it helps to organize work which can impr
 Priority: High, should be one of the first project points 
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1](https://github.com/samaraaugust/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiatives_1/Epics/Stories/story_1.md)
