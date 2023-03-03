@@ -29,4 +29,5 @@ Dependencies: testing software like pytest
 
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1](https://github.com/samaraaugust/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiatives_2/Epics/epic_1.md)
+2. [Epic_2](https://github.com/samaraaugust/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiatives_2/Epics/epic_2.md)
