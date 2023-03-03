@@ -6,8 +6,8 @@ solid foundation that ensures our web page meets our business requirements throu
 us up for long-term success.
 ## Initiative(s)
 
-* [Choosing a platform to help managment workload, so a visual management system.](initiatives/documentation_initiative.md)
-* [Create a system to regularly test web applicatitions and its components.](initiatives/initiative_devops.md)
+* [Choosing a platform to help managment workload, so a visual management system.](https://github.com/samaraaugust/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiatives_1/initiative_visual.md)
+* [Create a system to regularly test web applicatitions and its components.](https://github.com/samaraaugust/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiatives_2/initiative_test.md)
 
 ## Test plan
-How will this be tested?
+This will be tested by the test reports provided after the tests are run, also, whether the team follows a specific workflow appropriately according to visual management system.
