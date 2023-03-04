@@ -11,6 +11,5 @@ The framework should be easy to understand and follow.
 
 Acceptance criteria:
 
-The guidelines should be documented and easily accessible to all team members.
 The guidelines should be clear and easy to understand.
 The guidelines should include instructions for updating different components of the visual management system.
