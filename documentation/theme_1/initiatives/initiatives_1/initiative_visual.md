@@ -1,4 +1,4 @@
-# Initiative: Choosing a platform to help managment workload, so a visual management system.
+# Initiative: Visual management system
 ## Description
 Agile and lean project management both use visual management techniques, such as Kanban boards, to provide a clear and transparent view of project progress. This initiative helps to keep everyone on the same page and focused on the project goals.
 ## Epics
