@@ -138,5 +138,5 @@ review this effectiveness before the next iteration of the project.
 
 | Release Version | Release Date | Features |
 |-----------------|--------------|----------|
-| 0.1.x           | TBD          | TBD      |
+| 0.1.0           | 03/3/2023    | Documentation |
 
