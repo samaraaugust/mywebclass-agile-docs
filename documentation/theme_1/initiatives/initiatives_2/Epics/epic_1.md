@@ -1,4 +1,4 @@
-"Functional Testing"
+# Functional Testing
 
 Description: Testing overall functions and components of the web application
 
