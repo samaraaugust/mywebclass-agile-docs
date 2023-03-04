@@ -1,4 +1,4 @@
-"Create a system to regularly test web applicatitions and its components"
+Regularly test web applicatitions
 
 Description: Regular testing of the web page throughout the development process can help catch issues early and ensure that the web page meets the business requirements. Testing should include functional testing, performance testing, and user acceptance testing.
 
