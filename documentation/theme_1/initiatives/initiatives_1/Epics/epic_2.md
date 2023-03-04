@@ -4,10 +4,6 @@ Description: Defining what the process and workflow should look like when starti
 
 Goals: After choosing the visual management system, the team should determine an appropriate and effective process and workflow.
 
-User Stories: 
-As a project manager, I want to define clear processes and workflows so that work is managed consistently across the organization.
-As a team member, I want to understand the processes and workflows so that I can effectively manage my work.
-
 Dependencies: 
 The framework for the visual management system must be established before processes and workflows can be defined.
 

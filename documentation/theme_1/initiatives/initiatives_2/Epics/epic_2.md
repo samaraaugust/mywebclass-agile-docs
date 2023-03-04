@@ -2,10 +2,6 @@
 
 Goals/Description: Ensure that the web application meets the needs and expectations of the users and is approved by business guidelines.
 
-User Stories: 
-As a user, I want to be able to easily navigate the web application and find what I need.
-As a user, I want the web application to be intuitive and easy to use.
-
 Dependencies: 
 Availability of user testing environments, availability of test users.
 Guidelines provided by business.
