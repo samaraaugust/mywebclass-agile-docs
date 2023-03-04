@@ -7,10 +7,6 @@ Establish a framework for the visual management system
 Define the key components of the system, including boards, cards, and workflows
 Determine the process for updating the visual management system
 
-User Stories: 
-As a project manager, I want a framework for the visual management system so that I can ensure consistency across the organization.
-As a team member, I want clear guidelines for updating the visual management system so that I can keep the system up-to-date.
-
 Dependencies: None
 
 Risks: Users not know how to use the visual management system or choosing not use it.

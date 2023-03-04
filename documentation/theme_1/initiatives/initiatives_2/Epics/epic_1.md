@@ -5,9 +5,6 @@ Description: Testing overall functions and components of the web application
 Goals: 
 Ensure that all features of the web application are working as expected.
 
-User Stories:
-As a user I want to ensure that every component of the web application is working. 
-
 Dependencies: Development of the web application features, availability of testing environments, availability of test data.
 
 Risks: Incomplete test coverage, failure to identify all defects.
